@@ -1,0 +1,54 @@
+[
+  {
+    "author": {
+      "name": "TIME.com"
+    },
+    "audio": {
+      "image": "avatars-000090523521-ezxdlt-t200x200.jpg",
+      "path": "time-com/meditation",
+      "name": "Body Scan Meditation - Nick Velkov"
+    },
+    "licence": {
+      "path": "by/3.0"
+    }
+  },
+  {
+    "author": {
+      "name": "Mindful Pause"
+    },
+    "audio": {
+      "image": "avatars-000271535812-mjpk29-t200x200.jpg",
+      "path": "jeena-cho/meditation-for-a-bad-day-6-minutes",
+      "name": "Body Scan Meditation - Nick Velkov"
+    },
+    "licence": {
+      "path": "by/3.0"
+    }
+  },
+  {
+    "author": {
+      "name": "TaraBrach"
+    },
+    "audio": {
+      "image": "avatars-000070831721-yyy76l-t200x200.jpg",
+      "path": "tarabrach/vipassana-basic-mindfulness",
+      "name": "Vipassana Meditation (Basic Mindfulness)"
+    },
+    "licence": {
+      "path": "by/3.0"
+    }
+  },
+  {
+    "author": {
+      "name": "worldmeditationday"
+    },
+    "audio": {
+      "image": "avatars-000029048212-uad6xw-t200x200.jpg",
+      "path": "worldmeditationday/world-meditation-12-21-12",
+      "name": "World Meditation 12.21.12 Onwards"
+    },
+    "licence": {
+      "path": "by-sa/3.0"
+    }
+  }
+]
