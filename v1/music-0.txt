@@ -1,0 +1,28 @@
+[
+  {
+    "author": {
+      "name": "Lena Selyanina"
+    },
+    "audio": {
+      "image": "avatars-000000651316-h3k4se-t200x200.jpg",
+      "path": "lena-selyanina/meditation",
+      "name": "Meditation"
+    },
+    "licence": {
+      "path": "by/3.0"
+    }
+  },
+  {
+    "author": {
+      "name": "alcyne"
+    },
+    "audio": {
+      "image": "avatars-000138877399-ec829n-t200x200.jpg",
+      "path": "alcyne/meditation-de-thais-1894-de-jules-massenet-1842-1912",
+      "name": "Méditation de \"Thaïs\" (1894), de Jules Massenet (1842-1912)"
+    },
+    "licence": {
+      "path": "by-sa/3.0"
+    }
+  }
+]
