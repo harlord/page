@@ -1,32 +1,22 @@
 [
   {
-    "data": {
-      "name": "meditations",
-      "size": "1"
-    }
+    "name": "meditations",
+    "size": "1"
   },
   {
-    "data": {
-      "name": "history",
-      "size": "1"
-    }
+    "name": "history",
+    "size": "1"
   },
   {
-    "data": {
-      "name": "favorites",
-      "size": "1"
-    }
+    "name": "favorites",
+    "size": "1"
   },
   {
-    "data": {
-      "name": "new",
-      "size": "1"
-    }
+    "name": "new",
+    "size": "1"
   },
   {
-    "data": {
-      "name": "quotes",
-      "size": "1"
-    }
+    "name": "quotes",
+    "size": "1"
   }
 ]
