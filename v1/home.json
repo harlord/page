@@ -2,7 +2,7 @@
   "category": {
     "setting": {
       "name": "categories",
-      "size": "1"
+      "size": 1
     },
     "items": [
       {
@@ -188,7 +188,7 @@
   "new": {
     "setting": {
       "name": "new",
-      "size": "1"
+      "size": 1
     },
     "items": [
       {
@@ -302,6 +302,70 @@
             "path": "by/3.0"
           }
         }
+      }
+    ]
+  },
+  "quote": {
+    "setting": {
+      "name": "quotes",
+      "size": 1
+    },
+    "items": [
+      {
+        "text": "Quiet the mind, and the soul will speak.",
+        "author": "Ma Jaya Sati Bhagavati"
+      },
+      {
+        "text": "Learn to be calm and you will always be happy.",
+        "author": "Paramahansa Yogananda"
+      },
+      {
+        "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "author": "Buddha"
+      },
+      {
+        "text": "Calmness of mind is one of the beautiful jewels of wisdom.",
+        "author": "James Allen"
+      },
+      {
+        "text": "Whatever is fluid, soft, and yielding will overcome whatever is rigid and hard. What is soft is strong.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "When meditation is mastered, the mind is unwavering like the flame of a candle in a windless place.",
+        "author": "Bhagavad Gita"
+      },
+      {
+        "text": "When you own your breath, nobody can steal your peace.",
+        "author": "Unknown"
+      },
+      {
+        "text": "Nowhere can man find a quieter or more untroubled retreat than in his own soul.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "Your calm mind is the ultimate weapon against your challenges. So relax.",
+        "author": "Bryant McGill"
+      },
+      {
+        "text": "When you realize there is nothing lacking, the whole world belongs to you.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Meditation is not evasion; it is a serene encounter with reality.",
+        "author": "Thich Nhat Hanh"
+      },
+      {
+        "text": "The best meditation is effortless. The best meditation is a gentle awareness.",
+        "author": "Maxime Lagacé"
+      },
+      {
+        "text": "Learn to slow down. Get lost intentionally. Observe how you judge both yourself and those around you.",
+        "author": "Tim Ferriss"
+      },
+      {
+        "text": "Suffering is due to our disconnection with the inner soul. Meditation is establishing that connection.",
+        "author": "Amit Ray"
       }
     ]
   }
