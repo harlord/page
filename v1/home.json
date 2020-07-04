@@ -10,12 +10,13 @@
         "media": [
           {
             "author": {
-              "name": "TIME.com"
+              "name": "time-com",
+              "title": "TIME.com"
             },
             "audio": {
-              "image": "avatars-000090523521-ezxdlt-t200x200.jpg",
-              "path": "time-com/meditation",
-              "name": "Body Scan Meditation - Nick Velkov"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Body Scan Meditation - Nick Velkov"
             },
             "licence": {
               "path": "by/3.0"
@@ -23,12 +24,13 @@
           },
           {
             "author": {
-              "name": "Mindful Pause"
+              "name": "jeena-cho",
+              "title": "Mindful Pause"
             },
             "audio": {
-              "image": "avatars-000271535812-mjpk29-t200x200.jpg",
-              "path": "jeena-cho/meditation-for-a-bad-day-6-minutes",
-              "name": "Body Scan Meditation - Nick Velkov"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Body Scan Meditation - Nick Velkov"
             },
             "licence": {
               "path": "by/3.0"
@@ -36,12 +38,13 @@
           },
           {
             "author": {
-              "name": "TaraBrach"
+              "name": "tarabrach",
+              "title": "TaraBrach"
             },
             "audio": {
-              "image": "avatars-000070831721-yyy76l-t200x200.jpg",
-              "path": "tarabrach/vipassana-basic-mindfulness",
-              "name": "Vipassana Meditation (Basic Mindfulness)"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Vipassana Meditation (Basic Mindfulness)"
             },
             "licence": {
               "path": "by/3.0"
@@ -49,30 +52,33 @@
           },
           {
             "author": {
-              "name": "worldmeditationday"
+              "name": "worldmeditationday",
+              "title": "worldmeditationday"
             },
             "audio": {
-              "image": "avatars-000029048212-uad6xw-t200x200.jpg",
-              "path": "worldmeditationday/world-meditation-12-21-12",
-              "name": "World Meditation 12.21.12 Onwards"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "World Meditation 12.21.12 Onwards"
             },
             "licence": {
               "path": "by-sa/3.0"
             }
           }
-        ]
+        ],
+        "title": "meditations"
       },
       {
         "name": "music",
         "media": [
           {
             "author": {
-              "name": "Lena Selyanina"
+              "name": "lena-selyanina",
+              "title": "Lena Selyanina"
             },
             "audio": {
-              "image": "avatars-000000651316-h3k4se-t200x200.jpg",
-              "path": "lena-selyanina/meditation",
-              "name": "Meditation"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Meditation"
             },
             "licence": {
               "path": "by/3.0"
@@ -80,12 +86,13 @@
           },
           {
             "author": {
-              "name": "alcyne"
+              "name": "alcyne",
+              "title": "alcyne"
             },
             "audio": {
-              "image": "avatars-000138877399-ec829n-t200x200.jpg",
-              "path": "alcyne/meditation-de-thais-1894-de-jules-massenet-1842-1912",
-              "name": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
             },
             "licence": {
               "path": "by-sa/3.0"
@@ -94,94 +101,104 @@
         ]
       },
       {
-        "name": "work better",
+        "name": "workBetter",
         "media": [
           {
             "author": {
-              "name": "Mindscaping Meditation"
+              "name": "mindscaping",
+              "title": "Mindscaping Meditation"
             },
             "audio": {
-              "image": "avatars-000426128457-ae8hrt-t200x200.jpg",
-              "path": "mindscaping/accessing-your-inner-genius",
-              "name": "Accessing Your Inner Genius"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Accessing Your Inner Genius"
             },
             "licence": {
               "path": "by/3.0"
             }
           }
-        ]
+        ],
+        "title": "work better"
       },
       {
-        "name": "sleep better",
+        "name": "sleepBetter",
         "media": [
           {
             "author": {
-              "name": "Mindful Pause"
+              "name": "jeena-cho",
+              "title": "Mindful Pause"
             },
             "audio": {
-              "image": "avatars-000271535812-mjpk29-t200x200.jpg",
-              "path": "jeena-cho/45-minute-guided-meditation-for-insomnia",
-              "name": "45 Minute Guided Meditation For Insomnia"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "45 Minute Guided Meditation For Insomnia"
             },
             "licence": {
               "path": "by-nd/3.0"
             }
           }
-        ]
+        ],
+        "title": "sleep better"
       },
       {
         "name": "sensual",
         "media": [
           {
             "author": {
-              "name": "Priscilla-Wood.com"
+              "name": "priscillapwood",
+              "title": "Priscilla-Wood.com"
             },
             "audio": {
-              "image": "avatars-000338210170-4tqi2y-t200x200.jpg",
-              "path": "priscillapwood/tantra-love-meditation-sensual-sitar-tantra-meditacion-de-amor",
-              "name": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
             },
             "licence": {
               "path": "by/3.0"
             }
           }
-        ]
+        ],
+        "title": "sensual"
       },
       {
         "name": "nature",
         "media": [
           {
             "author": {
-              "name": "Doc & Lena Selyanina"
+              "name": "doc-lena-selyanina",
+              "title": "Doc & Lena Selyanina"
             },
             "audio": {
-              "image": "avatars-000000186260-fcbed1-t200x200.jpg",
-              "path": "doc-lena-selyanina/sea-meditation",
-              "name": "Sea Meditation"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Sea Meditation"
             },
             "licence": {
               "path": "by/3.0"
             }
           }
-        ]
+        ],
+        "title": "nature"
       },
       {
         "name": "binaural",
         "media": [
           {
             "author": {
-              "name": "Farrah Sharpe, M.S., RYT"
+              "name": "farrahsharpe",
+              "title": "Farrah Sharpe, M.S., RYT"
             },
             "audio": {
-              "image": "avatars-000347776709-9uo9jk-t200x200.jpg",
-              "path": "farrahsharpe/root-chakra-meditation-guided",
-              "name": "Root Chakra Meditation (Guided)"
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Root Chakra Meditation (Guided)"
             },
             "licence": {
               "path": "by/3.0"
             }
           }
-        ]
+        ],
+        "title": "binaural"
       }
     ]
   },
@@ -192,115 +209,87 @@
     },
     "items": [
       {
-        "category": "binaural",
-        "media": {
-          "author": {
-            "name": "Farrah Sharpe, M.S., RYT"
-          },
-          "audio": {
-            "image": "avatars-000347776709-9uo9jk-t200x200.jpg",
-            "path": "farrahsharpe/root-chakra-meditation-guided",
-            "name": "Root Chakra Meditation (Guided)"
-          },
-          "licence": {
-            "path": "by/3.0"
-          }
+        "author": {
+          "name": "farrahsharpe",
+          "title": "Farrah Sharpe, M.S., RYT"
+        },
+        "audio": {
+          "image": "image.png",
+          "file": "audio.mp3",
+          "title": "Root Chakra Meditation (Guided)"
+        },
+        "licence": {
+          "path": "by/3.0"
         }
       },
       {
-        "category": "sleep better",
-        "media": {
-          "author": {
-            "name": "Mindful Pause"
-          },
-          "audio": {
-            "image": "avatars-000271535812-mjpk29-t200x200.jpg",
-            "path": "jeena-cho/45-minute-guided-meditation-for-insomnia",
-            "name": "45 Minute Guided Meditation For Insomnia"
-          },
-          "licence": {
-            "path": "by-nd/3.0"
-          }
+        "author": {
+          "name": "worldmeditationday",
+          "title": "worldmeditationday"
+        },
+        "audio": {
+          "image": "image.png",
+          "file": "audio.mp3",
+          "title": "World Meditation 12.21.12 Onwards"
+        },
+        "licence": {
+          "path": "by-sa/3.0"
         }
       },
       {
-        "category": "music",
-        "media": {
-          "author": {
-            "name": "Lena Selyanina"
-          },
-          "audio": {
-            "image": "avatars-000000651316-h3k4se-t200x200.jpg",
-            "path": "lena-selyanina/meditation",
-            "name": "Meditation"
-          },
-          "licence": {
-            "path": "by/3.0"
-          }
+        "author": {
+          "name": "alcyne",
+          "title": "alcyne"
+        },
+        "audio": {
+          "image": "image.png",
+          "file": "audio.mp3",
+          "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
+        },
+        "licence": {
+          "path": "by-sa/3.0"
         }
       },
       {
-        "category": "sensual",
-        "media": {
-          "author": {
-            "name": "Priscilla-Wood.com"
-          },
-          "audio": {
-            "image": "avatars-000338210170-4tqi2y-t200x200.jpg",
-            "path": "priscillapwood/tantra-love-meditation-sensual-sitar-tantra-meditacion-de-amor",
-            "name": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
-          },
-          "licence": {
-            "path": "by/3.0"
-          }
+        "author": {
+          "name": "jeena-cho",
+          "title": "Mindful Pause"
+        },
+        "audio": {
+          "image": "image.png",
+          "file": "audio.mp3",
+          "title": "45 Minute Guided Meditation For Insomnia"
+        },
+        "licence": {
+          "path": "by-nd/3.0"
         }
       },
       {
-        "category": "nature",
-        "media": {
-          "author": {
-            "name": "Doc & Lena Selyanina"
-          },
-          "audio": {
-            "image": "avatars-000000186260-fcbed1-t200x200.jpg",
-            "path": "doc-lena-selyanina/sea-meditation",
-            "name": "Sea Meditation"
-          },
-          "licence": {
-            "path": "by/3.0"
-          }
+        "author": {
+          "name": "priscillapwood",
+          "title": "Priscilla-Wood.com"
+        },
+        "audio": {
+          "image": "image.png",
+          "file": "audio.mp3",
+          "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
+        },
+        "licence": {
+          "path": "by/3.0"
         }
       },
       {
-        "category": "music",
-        "media": {
-          "author": {
-            "name": "alcyne"
-          },
-          "audio": {
-            "image": "avatars-000138877399-ec829n-t200x200.jpg",
-            "path": "alcyne/meditation-de-thais-1894-de-jules-massenet-1842-1912",
-            "name": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
-          },
-          "licence": {
-            "path": "by-sa/3.0"
-          }
-        }
-      },
-      {
-        "category": "work better",
-        "media": {
-          "author": {
-            "name": "Mindscaping Meditation"
-          },
-          "audio": {
-            "image": "avatars-000426128457-ae8hrt-t200x200.jpg",
-            "path": "mindscaping/accessing-your-inner-genius",
-            "name": "Accessing Your Inner Genius"
-          },
-          "licence": {
-            "path": "by/3.0"
-          }
+        "author": {
+          "name": "jeena-cho",
+          "title": "Mindful Pause"
+        },
+        "audio": {
+          "image": "image.png",
+          "file": "audio.mp3",
+          "title": "Body Scan Meditation - Nick Velkov"
+        },
+        "licence": {
+          "path": "by/3.0"
         }
       }
     ]
