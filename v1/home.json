@@ -17,7 +17,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Body Scan Meditation - Nick Velkov"
+              "title": "Body Scan Meditation - Nick Velkov",
+	            "time" : 5.36
             },
             "licence": {
               "path": "by/3.0"
@@ -31,7 +32,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Body Scan Meditation - Nick Velkov"
+              "title": "Body Scan Meditation - Nick Velkov",
+	            "time" : 6.48
             },
             "licence": {
               "path": "by/3.0"
@@ -45,7 +47,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Vipassana Meditation (Basic Mindfulness)"
+              "title": "Vipassana Meditation (Basic Mindfulness)",
+	            "time" : 15.27
             },
             "licence": {
               "path": "by/3.0"
@@ -59,7 +62,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "World Meditation 12.21.12 Onwards"
+              "title": "World Meditation 12.21.12 Onwards",
+	            "time" : 60.10
             },
             "licence": {
               "path": "by-sa/3.0"
@@ -79,7 +83,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Meditation"
+              "title": "Meditation",
+	            "time" : 7.14
             },
             "licence": {
               "path": "by/3.0"
@@ -93,7 +98,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
+              "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)",
+	            "time" : 4.51
             },
             "licence": {
               "path": "by-sa/3.0"
@@ -113,7 +119,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Accessing Your Inner Genius"
+              "title": "Accessing Your Inner Genius",
+	            "time" : 7.38
             },
             "licence": {
               "path": "by/3.0"
@@ -133,7 +140,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "45 Minute Guided Meditation For Insomnia"
+              "title": "45 Minute Guided Meditation For Insomnia",
+	            "time" : 6.48
             },
             "licence": {
               "path": "by-nd/3.0"
@@ -153,7 +161,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
+              "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor",
+	            "time" : 60.0
             },
             "licence": {
               "path": "by/3.0"
@@ -173,7 +182,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Sea Meditation"
+              "title": "Sea Meditation",
+	            "time" : 14.33
             },
             "licence": {
               "path": "by/3.0"
@@ -193,7 +203,8 @@
             "audio": {
               "image": "image.png",
               "file": "audio.mp3",
-              "title": "Root Chakra Meditation (Guided)"
+              "title": "Root Chakra Meditation (Guided)",
+	            "time" : 9.06
             },
             "licence": {
               "path": "by/3.0"
@@ -221,7 +232,8 @@
           "audio": {
             "image": "image.png",
             "file": "audio.mp3",
-            "title": "Root Chakra Meditation (Guided)"
+            "title": "Root Chakra Meditation (Guided)",
+	          "time" : 9.06
           },
           "licence": {
             "path": "by/3.0"
@@ -239,7 +251,8 @@
           "audio": {
             "image": "image.png",
             "file": "audio.mp3",
-            "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
+            "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)",
+	          "time" : 4.51
           },
           "licence": {
             "path": "by-sa/3.0"
@@ -257,7 +270,8 @@
           "audio": {
             "image": "image.png",
             "file": "audio.mp3",
-            "title": "Vipassana Meditation (Basic Mindfulness)"
+            "title": "Vipassana Meditation (Basic Mindfulness)",
+	          "time" : 15.27
           },
           "licence": {
             "path": "by/3.0"
@@ -275,7 +289,8 @@
           "audio": {
             "image": "image.png",
             "file": "audio.mp3",
-            "title": "Sea Meditation"
+            "title": "Sea Meditation",
+	          "time" : 14.33
           },
           "licence": {
             "path": "by/3.0"
@@ -293,7 +308,8 @@
           "audio": {
             "image": "image.png",
             "file": "audio.mp3",
-            "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
+            "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor",
+	          "time" : 60.0
           },
           "licence": {
             "path": "by/3.0"
