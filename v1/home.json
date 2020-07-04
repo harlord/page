@@ -264,6 +264,42 @@
           }
         },
         "title": "meditations"
+      },
+      {
+        "name": "nature",
+        "media": {
+          "author": {
+            "name": "doc-lena-selyanina",
+            "title": "Doc & Lena Selyanina"
+          },
+          "audio": {
+            "image": "image.png",
+            "file": "audio.mp3",
+            "title": "Sea Meditation"
+          },
+          "licence": {
+            "path": "by/3.0"
+          }
+        },
+        "title": "nature"
+      },
+      {
+        "name": "sensual",
+        "media": {
+          "author": {
+            "name": "priscillapwood",
+            "title": "Priscilla-Wood.com"
+          },
+          "audio": {
+            "image": "image.png",
+            "file": "audio.mp3",
+            "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
+          },
+          "licence": {
+            "path": "by/3.0"
+          }
+        },
+        "title": "sensual"
       }
     ]
   },
