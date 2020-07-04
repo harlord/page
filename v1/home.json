@@ -212,88 +212,64 @@
     },
     "items": [
       {
-        "author": {
-          "name": "farrahsharpe",
-          "title": "Farrah Sharpe, M.S., RYT"
-        },
-        "audio": {
-          "image": "image.png",
-          "file": "audio.mp3",
-          "title": "Root Chakra Meditation (Guided)"
-        },
-        "licence": {
-          "path": "by/3.0"
-        }
+        "name": "binaural",
+        "media": [
+          {
+            "author": {
+              "name": "farrahsharpe",
+              "title": "Farrah Sharpe, M.S., RYT"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Root Chakra Meditation (Guided)"
+            },
+            "licence": {
+              "path": "by/3.0"
+            }
+          }
+        ],
+        "title": "binaural"
       },
       {
-        "author": {
-          "name": "worldmeditationday",
-          "title": "worldmeditationday"
-        },
-        "audio": {
-          "image": "image.png",
-          "file": "audio.mp3",
-          "title": "World Meditation 12.21.12 Onwards"
-        },
-        "licence": {
-          "path": "by-sa/3.0"
-        }
+        "name": "music",
+        "media": [
+          {
+            "author": {
+              "name": "alcyne",
+              "title": "alcyne"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
+            },
+            "licence": {
+              "path": "by-sa/3.0"
+            }
+          }
+        ],
+        "title": "music"
       },
       {
-        "author": {
-          "name": "alcyne",
-          "title": "alcyne"
-        },
-        "audio": {
-          "image": "image.png",
-          "file": "audio.mp3",
-          "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
-        },
-        "licence": {
-          "path": "by-sa/3.0"
-        }
-      },
-      {
-        "author": {
-          "name": "jeena-cho",
-          "title": "Mindful Pause"
-        },
-        "audio": {
-          "image": "image.png",
-          "file": "audio.mp3",
-          "title": "45 Minute Guided Meditation For Insomnia"
-        },
-        "licence": {
-          "path": "by-nd/3.0"
-        }
-      },
-      {
-        "author": {
-          "name": "priscillapwood",
-          "title": "Priscilla-Wood.com"
-        },
-        "audio": {
-          "image": "image.png",
-          "file": "audio.mp3",
-          "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor"
-        },
-        "licence": {
-          "path": "by/3.0"
-        }
-      },
-      {
-        "author": {
-          "name": "jeena-cho",
-          "title": "Mindful Pause"
-        },
-        "audio": {
-          "image": "image.png",
-          "file": "audio.mp3",
-          "title": "Body Scan Meditation - Nick Velkov"
-        },
-        "licence": {
-          "path": "by/3.0"
-        }
+        "name": "meditations",
+        "media": [
+          {
+            "author": {
+              "name": "tarabrach",
+              "title": "TaraBrach"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Vipassana Meditation (Basic Mindfulness)"
+            },
+            "licence": {
+              "path": "by/3.0"
+            }
+          }
+        ],
+        "title": "meditations"
       }
     ]
   },
