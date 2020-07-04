@@ -2,6 +2,7 @@
   "category": {
     "setting": {
       "name": "categories",
+      "title": "categories",
       "size": 1
     },
     "items": [
@@ -98,7 +99,8 @@
               "path": "by-sa/3.0"
             }
           }
-        ]
+        ],
+        "title": "music"
       },
       {
         "name": "workBetter",
@@ -205,6 +207,7 @@
   "new": {
     "setting": {
       "name": "new",
+      "title": "new",
       "size": 1
     },
     "items": [
@@ -297,6 +300,7 @@
   "quote": {
     "setting": {
       "name": "quotes",
+      "title": "quotes",
       "size": 1
     },
     "items": [
