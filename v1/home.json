@@ -213,62 +213,56 @@
     "items": [
       {
         "name": "binaural",
-        "media": [
-          {
-            "author": {
-              "name": "farrahsharpe",
-              "title": "Farrah Sharpe, M.S., RYT"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Root Chakra Meditation (Guided)"
-            },
-            "licence": {
-              "path": "by/3.0"
-            }
+        "media": {
+          "author": {
+            "name": "farrahsharpe",
+            "title": "Farrah Sharpe, M.S., RYT"
+          },
+          "audio": {
+            "image": "image.png",
+            "file": "audio.mp3",
+            "title": "Root Chakra Meditation (Guided)"
+          },
+          "licence": {
+            "path": "by/3.0"
           }
-        ],
+        },
         "title": "binaural"
       },
       {
         "name": "music",
-        "media": [
-          {
-            "author": {
-              "name": "alcyne",
-              "title": "alcyne"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
-            },
-            "licence": {
-              "path": "by-sa/3.0"
-            }
+        "media": {
+          "author": {
+            "name": "alcyne",
+            "title": "alcyne"
+          },
+          "audio": {
+            "image": "image.png",
+            "file": "audio.mp3",
+            "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)"
+          },
+          "licence": {
+            "path": "by-sa/3.0"
           }
-        ],
+        },
         "title": "music"
       },
       {
         "name": "meditations",
-        "media": [
-          {
-            "author": {
-              "name": "tarabrach",
-              "title": "TaraBrach"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Vipassana Meditation (Basic Mindfulness)"
-            },
-            "licence": {
-              "path": "by/3.0"
-            }
+        "media": {
+          "author": {
+            "name": "tarabrach",
+            "title": "TaraBrach"
+          },
+          "audio": {
+            "image": "image.png",
+            "file": "audio.mp3",
+            "title": "Vipassana Meditation (Basic Mindfulness)"
+          },
+          "licence": {
+            "path": "by/3.0"
           }
-        ],
+        },
         "title": "meditations"
       }
     ]
