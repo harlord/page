@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">	
+	<meta name="robots" content="index,follow">
+	
+	<title>SoundCloud Downloader ᐈ SoundCloud to MP3 ᐈ Download Music</title>
+
+	<link rel="icon" href="assets/images/favicon.png">
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+	<link href="assets/simplelineicons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/style.css" rel="stylesheet" type="text/css">
+	<meta name="title" content="SoundCloud Downloader ᐈ SoundCloud to MP3 ᐈ Download Music">
+	<meta name="description" content="ᐈ SoundCloud Downloader &#129505; SoundCloud to MP3 Converter &#129505; Download Music & SoundCloud Songs &#129505; Free & Online &#129505; No Registration Required &#129505; No Spam or Annoying Ads">
+	<meta name="keywords" content="soundcloud downloader, download soundcloud, soundcloud downloader online, soundcloud to mp3, sound cloud downloader, scdownloader, soundcloud download, download from soundcloud, download soundcloud songs, download music from soundcloud">	
+<link rel="canonical" href="https://soundclouddownloader.org/" />	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164163241-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-164163241-1');
+
+
+
+</script>
+</head>
+</head>
+<body>
+<div id="Clouds">
+  <div class="Cloud Foreground"></div>
+  <div class="Cloud Background"></div>
+  <div class="Cloud Foreground"></div>
+  <div class="Cloud Background"></div>
+  <div class="Cloud Foreground"></div>
+  <div class="Cloud Background"></div>
+  <div class="Cloud Background"></div>
+  <div class="Cloud Foreground"></div>
+  <div class="Cloud Background"></div>
+  <div class="Cloud Background"></div>
+<!--  <svg viewBox="0 0 40 24" class="Cloud"><use xlink:href="#Cloud"></use></svg>-->
+</div>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="24px" viewBox="0 0 40 24" enable- xml:space="preserve">
+  <defs>
+    <path id="Cloud" d="M33.85,14.388c-0.176,0-0.343,0.034-0.513,0.054c0.184-0.587,0.279-1.208,0.279-1.853c0-3.463-2.809-6.271-6.272-6.271
+	c-0.38,0-0.752,0.039-1.113,0.104C24.874,2.677,21.293,0,17.083,0c-5.379,0-9.739,4.361-9.739,9.738
+	c0,0.418,0.035,0.826,0.084,1.229c-0.375-0.069-0.761-0.11-1.155-0.11C2.811,10.856,0,13.665,0,17.126
+	c0,3.467,2.811,6.275,6.272,6.275c0.214,0,27.156,0.109,27.577,0.109c2.519,0,4.56-2.043,4.56-4.562
+	C38.409,16.43,36.368,14.388,33.85,14.388z"/>
+  </defs>
+</svg>
+
+
+	<header>
+		<div class="container">
+			<div class="ad">
+<div id="131328043">
+<script type="text/javascript">
+try {
+window._mNHandle.queue.push(function (){
+window._mNDetails.loadTag("131328043", "728x90", "131328043");
+});
+}
+catch (error) {}
+</script>
+</div>			</div>
+			<div class="row">
+				<div class="col-12 text-center">
+					<img src="assets/images/logo.png" class="my-3 img-fluid" alt=" SoundCloud Downloader ">
+				</div>
+			</div>
+		</div>
+<a href="https://chrome.google.com/webstore/detail/soundcloud-downloader/amfljmopebknnlfmjoidkjkipjphbheh" class="browser-plugin d-none d-sm-block">
+<img data-src="data:image/png;base64,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" alt="" class="browser-plugin__icon" src="data:image/png;base64,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"><div class="browser-plugin__action">Download</div><div class="browser-plugin__sub">Chrome  plugin <br>for free</div></a>
+<style>
+.browser-plugin {
+    background-color: #0c9f62;
+    border-radius: 0 15px 15px 0;
+    color: #fff;
+    cursor: pointer;
+    min-width: 100px;
+    padding: 15px 15px 10px 10px;
+    position: fixed;
+    left: 0;
+    top: 100px;
+    z-index: 4;
+}
+</style>		
+	</header>
+	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 text-center">
+					<h1>SoundCloud Downloader</h1>
+					<h2>SoundCloud to MP3 - Download SoundCloud Songs - Download Music from SoundCloud </h2>
+				</div>
+
+				<div class="col-md-6 offset-md-3 col-12 mt-2">
+										<form action="download.php" method="POST" >
+				
+					<div class="input-group mt-4">
+						<input type="text" name="v" required class="form-control soundcloud-url" placeholder="Paste a valid SoundCloud link here..." aria-label="Recipient's username" aria-describedby="button-addon2">
+						<div class="input-group-append">
+							<span class="arrow"><i class="icon-arrow-down"></i></span>
+							<button class="btn btn-outline-secondary btn-search" type="submit" id="button-addon2">Search</button>
+						</div>
+					</div>
+						</form>
+					
+<p class="mb-4">By Searching, you confirm your consent to our <a href="javascript:;" onclick="tou()">Terms of Use</a> <br><br>
+    <b>Example SoundCloud Music URL: </b> <a href="javascript:;">https://soundcloud.com/corbin/orig-is-trash</a> <br> <br>
+<b style="color:red">Note: You can download any song or music that is allowed by publisher to download. 
+You can download a song or music track not a playlist by this Soundcloud Downloader. 
+A song may take maximum 10 seconds to download, no matter how big file is. 
+    To download a complete playlist, we are going to release Playlist Downloader soon. </b>
+
+
+</p>					<!--
+					<div class="row">
+						<div class="col-md-6">
+							<div class="ad">
+								<img src="https://via.placeholder.com/300x250" class="img-fluid">
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="ad">
+								<img src="https://via.placeholder.com/300x250" class="img-fluid">
+							</div>
+						</div>
+					</div>
+					-->
+					<div class="row">
+						<div class="col-sm-10 my-4 offset-sm-2 col-12">
+							<h3>How to download music from SoundCloud?</h3>
+							<p class="my-1">1-Paste a valid SoundCloud link (URL) and search</p>
+							<p class="my-1">2-Download mp3 in your device</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>
+	<section class="text-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 offset-md-2 col-12 mt-2 col-12 mt-2">
+					<div class="row">
+						<div class="col-12 my-4">
+							<h3>SoundCloud Downloader</h3>
+							<p class="my-1"> <strong>SoundCloud Downloader </strong> welcome you online - <strong>Soundcloud downloader online</strong> is a free web app. No registration is required to use this <strong>SoundCloud Downloader App</strong>  and its user friendly on any deice. Download from <strong>soundcloud to mp3</strong> is simple, in order to <strong>download soundcloud songs</strong>, you can search any song or music by a valid link (URL) in this sound cloud downloader. This SoundCloud converter converts SoundCloud tracks to mp3 format and <strong>download music</strong> from soundcloud. Try <strong>soundcloud download</strong> now and enjoy your favorite <strong>downloaded music from soundcloud</strong> even when you are off-line. </p>
+
+							<p class="my-1"> You can download only those SoundCloud tracks which are allowed by Soundcloud for downloading after track owner has given permission to download, using this <strong>SoundCloud Downloader App</strong>. </p>
+							<p class="my-1"> You can download full SoundCloud playlist to your device. You can choose to download full playlist or download selected mp3 tracks from SoundCloud playlist. </p>
+							<p class="my-1"> <strong>Note:</strong> Soundcloud Downloader does not host any copyright content and any SoundCloud MP3 track. What you download, is downloaded directly from SoundCloud. </p>	
+  <center><h4> Frequently Asked Questions</h4> </center>
+<h3> What is the best SoundCloud downloader?</h3>
+<p class="my-1">
+<strong>SoundCloud Downloader :</strong>We believe our app is the best ever <strong>SoundCloud to MP3</strong> converter and downloader. It provides easiest way to <strong>download music from soundcloud</strong> to anyone without registration online for free in seconds, all you need is grab song url from soundcloud.com and paste in <strong>Soundcloud downloader online</strong> in order to <strong>download soundcloud songs</strong>, that’s it.
+</p>
+<h3> Can you download from SoundCloud for free? </h3>
+<p class="my-1">
+<strong>SoundCloud.com</strong> is known as one of the popular music streaming site on the internet. But downloading a song/track/music is not that easy from SoundCloud. You'll see a <strong>'Free download'</strong> link just above the comment box, if the artist has chosen the option to make the track available to download.
+</p>
+<h3> How to Download SoundCloud MP3 music tracks online? </h3>
+<p class="my-1">
+Simplest and easiest way to <strong>download from soundcloud</strong> any track is via our <strong>sound cloud downloader</strong> <br><br>
+Step 1: Copy Soundcloud’s track link (URL). To copy, open song and copy link from address bar.<br>
+Step 2: Go to our Soundcloud Downloader online and paste the link in URL box and click “Search”. <br>
+Step 3: Next page will show you result of your track, you can play it and/or download in your device. 
+</p>
+<h3> Where are SoundCloud files stored? </h3> 
+<p class="my-1">
+When you download a track, <strong>soundcloud download</strong> usually saved into your default folder. You can set this folder in your browser settings. In browser settings you can change and choose the destination folder for your downloads.
+</p>
+<h3> Is SoundCloud downloader legal? </h3>
+<p class="my-1">
+Do not worry! if the artist has chosen the option to make the track available to download.
+Be advised that downloading an item from SoundCloud without permission will be a violation of the company’s copyright laws.
+</p>
+<h3> Is SoundCloud free to download songs? </h3>
+<p class="my-1">
+You can download songs on the SoundCloud Pro App and you have to pay for it. By using https://soundclouddownloader.org/ you can <strong>download soundcloud</strong> songs completely for free.
+</p>
+<h3> Using our Chrome Extension?</h3>
+<p class="my-1">
+You can download our Chrome Extension in your browser which is handy to use. If you want to download SoundCloud track just copy URL and click on extension which will open webpp of our Soundcloud Downloader, just paste url and download music from soundcloud.
+</p>
+<center><h4> We hope you will like our SoundCloud Downloader</h4></center>
+							
+							</div>
+							
+					</div>
+					
+				</div>
+			</div>
+		</div>	
+	</section>
+	<footer>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-12 col-md-4 d-none d-md-block">
+					<div class="d-flex align-items-center">
+						<p class="mt-3">Soundclouddownloader.org © 2020. All Rights Reserved. </p>
+					</div>
+				</div>
+				<div class="col-12 col-md-8">
+					<div>
+						<ul class="d-md-flex flex-wrap justify-content-around footer-nav">
+							<li><a href="https://soundclouddownloader.org/" >SoundCloud Downloader</a></li>
+							<li><a href="#" >SoundCloud to MP3</a></li>
+							<li><a href="javascript:;" onclick="pp()" >Privacy Policy</a></li>
+							<li><a href="https://soundclouddownloader.org/contact-us.php"  >Contact us</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-12 col-md-6 d-block d-md-none">
+					<div class="d-flex align-items-center">
+						<p class="mt-3">Soundclouddownloader.org © 2020. All Rights Reserved. </p>
+					</div>
+				</div>				
+			</div>			
+		</div>
+	</footer>
+<section class="text-section bottom-bar">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-10 offset-md-1 col-12 col-12">
+					<div class="row">
+						<div class="col-12 my-2">
+							<p class="my-1 px20">We use cookies to enhance your experience. By continuing to visit this site you agree to our <a class="text-white" href="use-of-cookies.php"><strong>use of cookies.</strong></a></p>		
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</section>	
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>	
+	<script type="text/javascript" src="assets/js/bootstrap.bundle.js"></script>
+	<script type="text/javascript" src="assets/js/bg.js"></script>
+	<script type="text/javascript" src="assets/js/custom.js"></script>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px; top:260px;">
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_twitter"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div>
+
+<div class="modal fade" id="pp" role="dialog">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Privacy Policy</h4>
+        </div>
+        <div class="modal-body">
+          <p>
+This Privacy Policy governs the manner in which SoundcloudDownloader collects, uses, maintains and discloses information collected from users (each, a "User") of the https://soundclouddownloader.org website ("Site").
+</p>
+<p>
+ <h4>Personal identification information</h4>
+ We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+</p>
+<p>
+ <h4>Non-personal identification information</h4>
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+</p>
+<p>
+ <h4>Web browser cookies</h4>
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+</p>
+How we use collected information
+SoundcloudDownloader may collect and use Users personal information for the following purposes:
+•	To run and operate our Site
+We may need your information display content on the Site correctly.
+•	To improve customer service
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+•	To improve our Site
+We may use feedback you provide to improve our products and services.
+How we protect your information
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Sharing your personal information
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Advertising
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Google Adsense
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc.
+Changes to this privacy policy
+SoundcloudDownloader has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Your acceptance of these terms
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Contacting us
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+This document was last updated on April 7, 2020.
+
+		  
+		  </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="modal fade" id="tou" role="dialog">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Terms of Use</h4>
+        </div>
+        <div class="modal-body">
+          <p>
+By using SOUNDCLOUDDOWNLOADER.ORG services, you agree to be bound by the following terms and conditions:</p>
+<p>
+1.	We respect the intellectual property rights of others. You may not infringe the copyright, trademark or other proprietary informational rights of any party. All of the media information you got via our service is only for personal use. You bear full responsibility for all actions related to the data.
+</p>
+<p>
+2.	This website may have links to third party websites. We assumes no responsibility for the content, privacy policies, or practices of these websites. You may read the terms and conditions and privacy policy of the websites that you access.
+</p>
+<p>
+3.	We reserve the right to change or discontinue any of the services at any time.
+<p>
+</p>
+4.	. We will try our best to assure a good quality of our service. We do not offer any guarantee of any kind as for use of this service.
+  
+		  </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script async src="https://static.addtoany.com/menu/page.js"></script>	
+<script>
+function pp(){
+		  $('#pp').modal('show');
+	  }
+function tou(){
+		  $('#tou').modal('show');
+	  }	  
+</script>
+<script type="text/javascript"> var infolinks_pid = 3269626; var infolinks_wsid = 0; </script> <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+</body>
+</html>
