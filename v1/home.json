@@ -89,7 +89,7 @@
               "file": "audio.mp3",
               "title": "Meditation",
               "time": 7.14,
-              "music": "meditation"
+              "name": "meditation"
             },
             "licence": {
               "path": "by/3.0"
