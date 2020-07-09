@@ -21,7 +21,7 @@
               "time": 5.36,
               "name": "meditation"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           },
@@ -37,7 +37,7 @@
               "time": 6.48,
               "name": "meditation-for-a-bad-day-6-minutes"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           },
@@ -53,7 +53,7 @@
               "time": 15.27,
               "name": "vipassana-basic-mindfulness"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           },
@@ -69,7 +69,7 @@
               "time": 60.1,
               "name": "world-meditation-12-21-12"
             },
-            "licence": {
+            "license": {
               "path": "by-sa/3.0"
             }
           }
@@ -91,7 +91,7 @@
               "time": 7.14,
               "name": "meditation"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           },
@@ -107,7 +107,7 @@
               "time": 4.51,
               "name": "meditation-de-thais-1894-de-jules-massenet-1842-1912"
             },
-            "licence": {
+            "license": {
               "path": "by-sa/3.0"
             }
           }
@@ -129,7 +129,7 @@
               "time": 7.38,
               "name": "accessing-your-inner-genius"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           }
@@ -151,7 +151,7 @@
               "time": 46.38,
               "name": "45-minute-guided-meditation-for-insomnia"
             },
-            "licence": {
+            "license": {
               "path": "by-nd/3.0"
             }
           }
@@ -173,7 +173,7 @@
               "time": 60,
               "name": "tantra-love-meditation-sensual-sitar-tantra-meditacion-de-amor"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           }
@@ -195,7 +195,7 @@
               "time": 14.33,
               "name": "sea-meditation"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           }
@@ -217,7 +217,7 @@
               "time": 9.06,
               "name": "root-chakra-meditation-guided"
             },
-            "licence": {
+            "license": {
               "path": "by/3.0"
             }
           }
@@ -247,7 +247,7 @@
             "time": 9.06,
             "name": "root-chakra-meditation-guided"
           },
-          "licence": {
+          "license": {
             "path": "by/3.0"
           }
         },
@@ -267,7 +267,7 @@
             "time": 4.51,
             "name": "meditation-de-thais-1894-de-jules-massenet-1842-1912"
           },
-          "licence": {
+          "license": {
             "path": "by-sa/3.0"
           }
         },
@@ -287,7 +287,7 @@
             "time": 15.27,
             "name": "vipassana-basic-mindfulness"
           },
-          "licence": {
+          "license": {
             "path": "by/3.0"
           }
         },
@@ -307,7 +307,7 @@
             "time": 14.33,
             "name": "sea-meditation"
           },
-          "licence": {
+          "license": {
             "path": "by/3.0"
           }
         },
@@ -327,7 +327,7 @@
             "time": 60,
             "name": "tantra-love-meditation-sensual-sitar-tantra-meditacion-de-amor"
           },
-          "licence": {
+          "license": {
             "path": "by/3.0"
           }
         },
