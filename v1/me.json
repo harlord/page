@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "subscription": {
+      "productIds": [
+        "com.harlord.quietBreathing"
+      ]
+    }
+  }
+}
