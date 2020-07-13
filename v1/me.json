@@ -2,6 +2,10 @@
   "settings": {
     "name": "settings",
     "subscription": {
+	  "title": "Get the peace of mind you need",
+	  "message": "Unlock unlimited pack to listening meditation subscribing",
+	  "licence": "After the tryal period, the subscription automatically renews and will be charged %@ %@ unless auto-renew is turned off at least 24-hours before the end of the current period. You can manage your subscription and turn off auto-renewal anytime by going to Account Settings or through iTunes.",
+	    "action" : "try free and subscribe",
       "name": "subscription",
       "productIds": [
         "com.harlord.quietBreathing"
