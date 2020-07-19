@@ -7,79 +7,10 @@
     },
     "items": [
       {
-        "name": "meditations",
-        "media": [
-          {
-            "author": {
-              "name": "time-com",
-              "title": "TIME.com"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Body Scan Meditation - Nick Velkov",
-              "time": 5,
-              "name": "meditation"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          },
-          {
-            "author": {
-              "name": "jeena-cho",
-              "title": "Mindful Pause"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Body Scan Meditation - Nick Velkov",
-              "time": 6,
-              "name": "meditation-for-a-bad-day-6-minutes"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          },
-          {
-            "author": {
-              "name": "tarabrach",
-              "title": "TaraBrach"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Vipassana Meditation (Basic Mindfulness)",
-              "time": 15,
-              "name": "vipassana-basic-mindfulness"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          },
-          {
-            "author": {
-              "name": "worldmeditationday",
-              "title": "worldmeditationday"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "World Meditation 12.21.12 Onwards",
-              "time": 60,
-              "name": "world-meditation-12-21-12"
-            },
-            "license": {
-              "path": "by-sa/3.0"
-            }
-          }
-        ],
-        "title": "meditations"
-      },
-      {
         "name": "music",
         "media": [
           {
+            "status": 0,
             "author": {
               "name": "lena-selyanina",
               "title": "Lena Selyanina"
@@ -96,6 +27,7 @@
             }
           },
           {
+            "status": 1,
             "author": {
               "name": "alcyne",
               "title": "alcyne"
@@ -115,9 +47,84 @@
         "title": "music"
       },
       {
+        "name": "meditations",
+        "media": [
+          {
+            "status": 1,
+            "author": {
+              "name": "time-com",
+              "title": "TIME.com"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Body Scan Meditation - Nick Velkov",
+              "time": 5,
+              "name": "meditation"
+            },
+            "license": {
+              "path": "by/3.0"
+            }
+          },
+          {
+            "status": 1,
+            "author": {
+              "name": "jeena-cho",
+              "title": "Mindful Pause"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Body Scan Meditation - Nick Velkov",
+              "time": 6,
+              "name": "meditation-for-a-bad-day-6-minutes"
+            },
+            "license": {
+              "path": "by/3.0"
+            }
+          },
+          {
+            "status": 1,
+            "author": {
+              "name": "tarabrach",
+              "title": "TaraBrach"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "Vipassana Meditation (Basic Mindfulness)",
+              "time": 15,
+              "name": "vipassana-basic-mindfulness"
+            },
+            "license": {
+              "path": "by/3.0"
+            }
+          },
+          {
+            "status": 1,
+            "author": {
+              "name": "worldmeditationday",
+              "title": "worldmeditationday"
+            },
+            "audio": {
+              "image": "image.png",
+              "file": "audio.mp3",
+              "title": "World Meditation 12.21.12 Onwards",
+              "time": 60,
+              "name": "world-meditation-12-21-12"
+            },
+            "license": {
+              "path": "by-sa/3.0"
+            }
+          }
+        ],
+        "title": "meditations"
+      },
+      {
         "name": "workBetter",
         "media": [
           {
+            "status": 1,
             "author": {
               "name": "mindscaping",
               "title": "Mindscaping Meditation"
@@ -140,6 +147,7 @@
         "name": "sleepBetter",
         "media": [
           {
+            "status": 1,
             "author": {
               "name": "jeena-cho",
               "title": "Mindful Pause"
@@ -162,6 +170,7 @@
         "name": "sensual",
         "media": [
           {
+            "status": 1,
             "author": {
               "name": "priscillapwood",
               "title": "Priscilla-Wood.com"
@@ -184,6 +193,7 @@
         "name": "nature",
         "media": [
           {
+            "status": 1,
             "author": {
               "name": "doc-lena-selyanina",
               "title": "Doc & Lena Selyanina"
@@ -206,6 +216,7 @@
         "name": "binaural",
         "media": [
           {
+            "status": 1,
             "author": {
               "name": "farrahsharpe",
               "title": "Farrah Sharpe, M.S., RYT"
@@ -234,28 +245,9 @@
     },
     "items": [
       {
-        "name": "binaural",
-        "media": {
-          "author": {
-            "name": "farrahsharpe",
-            "title": "Farrah Sharpe, M.S., RYT"
-          },
-          "audio": {
-            "image": "image.png",
-            "file": "audio.mp3",
-            "title": "Root Chakra Meditation (Guided)",
-            "time": 9,
-            "name": "root-chakra-meditation-guided"
-          },
-          "license": {
-            "path": "by/3.0"
-          }
-        },
-        "title": "binaural"
-      },
-      {
         "name": "music",
         "media": {
+          "status": 1,
           "author": {
             "name": "alcyne",
             "title": "alcyne"
@@ -274,8 +266,30 @@
         "title": "music"
       },
       {
+        "name": "binaural",
+        "media": {
+          "status": 1,
+          "author": {
+            "name": "farrahsharpe",
+            "title": "Farrah Sharpe, M.S., RYT"
+          },
+          "audio": {
+            "image": "image.png",
+            "file": "audio.mp3",
+            "title": "Root Chakra Meditation (Guided)",
+            "time": 9,
+            "name": "root-chakra-meditation-guided"
+          },
+          "license": {
+            "path": "by/3.0"
+          }
+        },
+        "title": "binaural"
+      },
+      {
         "name": "meditations",
         "media": {
+          "status": 1,
           "author": {
             "name": "tarabrach",
             "title": "TaraBrach"
@@ -296,6 +310,7 @@
       {
         "name": "nature",
         "media": {
+          "status": 1,
           "author": {
             "name": "doc-lena-selyanina",
             "title": "Doc & Lena Selyanina"
@@ -316,6 +331,7 @@
       {
         "name": "sensual",
         "media": {
+          "status": 1,
           "author": {
             "name": "priscillapwood",
             "title": "Priscilla-Wood.com"
