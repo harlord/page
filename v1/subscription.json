@@ -3,11 +3,11 @@
     "message": "Unlock unlimited access to listen to all meditations by subscribing only by:",
     "licenceTrial": "After the tryal period, the subscription automatically renews and will be charged %@ %@ unless auto-renew is turned off at least 24-hours before the end of the current period. You can manage your subscription and turn off auto-renewal anytime by going to Account Settings or through iTunes.",
     "licence": "After the tryal period, the subscription automatically renews and will be charged %@ %@ unless auto-renew is turned off at least 24-hours before the end of the current period. You can manage your subscription and turn off auto-renewal anytime by going to Account Settings or through iTunes.",
-    "actionTrial": "try free and subscribe",
+    "actionTrial": "Try free and subscribe",
     "action": "Subscribe",
     "name": "subscription",
-    "autoRenewTrial": "After 7 days will be charged",
-    "autoRenew": "Will be charged",
+    "autoRenewTrial": "After 7 days will be charged %@ %@.",
+    "autoRenew": "Will be charged %@ %@",
     "productIds": [
       "com.harlord.quietBreathing"
     ]
