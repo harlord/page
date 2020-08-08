@@ -9,6 +9,6 @@
     "autoRenewTrial": "After 7 days will be charged %@ %@.",
     "autoRenew": "Will be charged %@ %@",
     "productIds": [
-      "com.harlord.quietBreathing"
+      "com.harlord.mentalBalance.monthly"
     ]
   }
