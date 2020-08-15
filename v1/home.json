@@ -7,7 +7,7 @@
     },
     "items": [
       {
-        "name": "music",
+        "name": "relax",
         "media": [
           {
             "status": 0,
@@ -25,7 +25,7 @@
             }
           },
           {
-            "status": 1,
+            "status": 0,
             "author": {
               "name": "owner",
               "title": "Tranquility"
@@ -38,198 +38,45 @@
             "license": {
               "path": ""
             }
-          }
-        ],
-        "title": "music"
-      },
-      {
-        "name": "meditations",
-        "media": [
-          {
-            "status": 1,
-            "author": {
-              "name": "time-com",
-              "title": "TIME.com"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Body Scan Meditation - Nick Velkov",
-              "time": 5,
-              "name": "meditation"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
           },
           {
-            "status": 1,
+            "status": 0,
             "author": {
-              "name": "jeena-cho",
-              "title": "Mindful Pause"
+              "name": "owner",
+              "title": "Serenity"
             },
             "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Body Scan Meditation - Nick Velkov",
-              "time": 6,
-              "name": "meditation-for-a-bad-day-6-minutes"
+              "title": "Soft ambient song for deep relaxation.",
+              "time": 3,
+              "name": "Serenity"
             },
             "license": {
-              "path": "by/3.0"
-            }
-          },
-          {
-            "status": 1,
-            "author": {
-              "name": "tarabrach",
-              "title": "TaraBrach"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Vipassana Meditation (Basic Mindfulness)",
-              "time": 15,
-              "name": "vipassana-basic-mindfulness"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          },
-          {
-            "status": 1,
-            "author": {
-              "name": "worldmeditationday",
-              "title": "worldmeditationday"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "World Meditation 12.21.12 Onwards",
-              "time": 60,
-              "name": "world-meditation-12-21-12"
-            },
-            "license": {
-              "path": "by-sa/3.0"
+              "path": ""
             }
           }
         ],
-        "title": "meditations"
+        "title": "relax"
       },
       {
-        "name": "workBetter",
+        "name": "meditation",
         "media": [
           {
             "status": 1,
             "author": {
-              "name": "mindscaping",
-              "title": "Mindscaping Meditation"
+              "name": "owner",
+              "title": "Deep Meditation"
             },
             "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Accessing Your Inner Genius",
-              "time": 7,
-              "name": "accessing-your-inner-genius"
+              "title": "Very peaceful meditating music which is sure to inspire deep thought.",
+              "time": 4,
+              "name": "Deep_Meditation"
             },
             "license": {
-              "path": "by/3.0"
+              "path": ""
             }
           }
         ],
-        "title": "work better"
-      },
-      {
-        "name": "sleepBetter",
-        "media": [
-          {
-            "status": 1,
-            "author": {
-              "name": "jeena-cho",
-              "title": "Mindful Pause"
-            },
-            "audio": {
-              "image": "image2.png",
-              "file": "audio2.mp3",
-              "title": "45 Minute Guided Meditation For Insomnia",
-              "time": 46,
-              "name": "45-minute-guided-meditation-for-insomnia"
-            },
-            "license": {
-              "path": "by-nd/3.0"
-            }
-          }
-        ],
-        "title": "sleep better"
-      },
-      {
-        "name": "sensual",
-        "media": [
-          {
-            "status": 1,
-            "author": {
-              "name": "priscillapwood",
-              "title": "Priscilla-Wood.com"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor",
-              "time": 60,
-              "name": "tantra-love-meditation-sensual-sitar-tantra-meditacion-de-amor"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          }
-        ],
-        "title": "sensual"
-      },
-      {
-        "name": "nature",
-        "media": [
-          {
-            "status": 1,
-            "author": {
-              "name": "doc-lena-selyanina",
-              "title": "Doc & Lena Selyanina"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Sea Meditation",
-              "time": 14,
-              "name": "sea-meditation"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          }
-        ],
-        "title": "nature"
-      },
-      {
-        "name": "binaural",
-        "media": [
-          {
-            "status": 1,
-            "author": {
-              "name": "farrahsharpe",
-              "title": "Farrah Sharpe, M.S., RYT"
-            },
-            "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Root Chakra Meditation (Guided)",
-              "time": 9,
-              "name": "root-chakra-meditation-guided"
-            },
-            "license": {
-              "path": "by/3.0"
-            }
-          }
-        ],
-        "title": "binaural"
+        "title": "meditation"
       }
     ]
   },
@@ -241,109 +88,23 @@
     },
     "items": [
       {
-        "name": "music",
+        "name": "meditation",
         "media": {
           "status": 1,
-          "author": {
-            "name": "alcyne",
-            "title": "alcyne"
-          },
-          "audio": {
-            "image": "image.png",
-            "file": "audio.mp3",
-            "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)",
-            "time": 4,
-            "name": "meditation-de-thais-1894-de-jules-massenet-1842-1912"
-          },
-          "license": {
-            "path": "by-sa/3.0"
-          }
+            "author": {
+              "name": "owner",
+              "title": "Deep Meditation"
+            },
+            "audio": {
+              "title": "Very peaceful meditating music which is sure to inspire deep thought.",
+              "time": 4,
+              "name": "Deep_Meditation"
+            },
+            "license": {
+              "path": ""
+            }
         },
-        "title": "music"
-      },
-      {
-        "name": "binaural",
-        "media": {
-          "status": 1,
-          "author": {
-            "name": "farrahsharpe",
-            "title": "Farrah Sharpe, M.S., RYT"
-          },
-          "audio": {
-            "image": "image.png",
-            "file": "audio.mp3",
-            "title": "Root Chakra Meditation (Guided)",
-            "time": 9,
-            "name": "root-chakra-meditation-guided"
-          },
-          "license": {
-            "path": "by/3.0"
-          }
-        },
-        "title": "binaural"
-      },
-      {
-        "name": "meditations",
-        "media": {
-          "status": 1,
-          "author": {
-            "name": "tarabrach",
-            "title": "TaraBrach"
-          },
-          "audio": {
-            "image": "image.png",
-            "file": "audio.mp3",
-            "title": "Vipassana Meditation (Basic Mindfulness)",
-            "time": 15,
-            "name": "vipassana-basic-mindfulness"
-          },
-          "license": {
-            "path": "by/3.0"
-          }
-        },
-        "title": "meditations"
-      },
-      {
-        "name": "nature",
-        "media": {
-          "status": 1,
-          "author": {
-            "name": "doc-lena-selyanina",
-            "title": "Doc & Lena Selyanina"
-          },
-          "audio": {
-            "image": "image.png",
-            "file": "audio.mp3",
-            "title": "Sea Meditation",
-            "time": 14,
-            "name": "sea-meditation"
-          },
-          "license": {
-            "path": "by/3.0"
-          }
-        },
-        "title": "nature"
-      },
-      {
-        "name": "sensual",
-        "media": {
-          "status": 1,
-          "author": {
-            "name": "priscillapwood",
-            "title": "Priscilla-Wood.com"
-          },
-          "audio": {
-            "image": "image.png",
-            "file": "audio.mp3",
-            "title": "Tantra ❤ Love Meditation Sensual Sitar ♂ ♀ Tantra Meditacion de Amor",
-            "time": 60,
-            "name": "tantra-love-meditation-sensual-sitar-tantra-meditacion-de-amor"
-          },
-          "license": {
-            "path": "by/3.0"
-          }
-        },
-        "title": "sensual"
+        "title": "meditation"
       }
     ]
   },
