@@ -12,35 +12,31 @@
           {
             "status": 0,
             "author": {
-              "name": "lena-selyanina",
-              "title": "Lena Selyanina"
+              "name": "owner",
+              "title": "Quiet Time"
             },
             "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Meditation",
-              "time": 7,
-              "name": "meditation"
+              "title": "Soothing relaxation with harp, piano and other soft background elements.",
+              "time": 2,
+              "name": "Quiet_Time"
             },
             "license": {
-              "path": "by/3.0"
+              "path": ""
             }
           },
           {
             "status": 1,
             "author": {
-              "name": "alcyne",
-              "title": "alcyne"
+              "name": "owner",
+              "title": "Tranquility"
             },
             "audio": {
-              "image": "image.png",
-              "file": "audio.mp3",
-              "title": "Méditation de Thaïs (1894), de Jules Massenet (1842-1912)",
+              "title": "Enjoy deep relaxation and tranquility with this calming soothing instrumental.",
               "time": 4,
-              "name": "meditation-de-thais-1894-de-jules-massenet-1842-1912"
+              "name": "Tranquility"
             },
             "license": {
-              "path": "by-sa/3.0"
+              "path": ""
             }
           }
         ],
