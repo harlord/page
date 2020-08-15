@@ -16,7 +16,7 @@
               "title": "Quiet Time"
             },
             "audio": {
-              "title": "Soothing relaxation with harp, piano and other soft background elements.",
+              "title": "Soothing relaxation with harp, piano and other soft background elements",
               "time": 2,
               "name": "Quiet_Time"
             },
@@ -31,7 +31,7 @@
               "title": "Tranquility"
             },
             "audio": {
-              "title": "Enjoy deep relaxation and tranquility with this calming soothing instrumental.",
+              "title": "Enjoy deep relaxation and tranquility with this calming soothing instrumental",
               "time": 4,
               "name": "Tranquility"
             },
@@ -46,7 +46,7 @@
               "title": "Serenity"
             },
             "audio": {
-              "title": "Soft ambient song for deep relaxation.",
+              "title": "Soft ambient song for deep relaxation",
               "time": 3,
               "name": "Serenity"
             },
@@ -58,6 +58,27 @@
         "title": "relax"
       },
       {
+        "name": "peace",
+        "media": [
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "We Were Friends"
+            },
+            "audio": {
+              "title": "Slow sad background music with piano, ethnic winds and orchestra",
+              "time": 4,
+              "name": "We_Were_Friends"
+            },
+            "license": {
+              "path": ""
+            }
+          }
+        ],
+        "title": "peace"
+      },
+      {
         "name": "meditation",
         "media": [
           {
@@ -67,7 +88,7 @@
               "title": "Deep Meditation"
             },
             "audio": {
-              "title": "Very peaceful meditating music which is sure to inspire deep thought.",
+              "title": "Very peaceful meditating music which is sure to inspire deep thought",
               "time": 4,
               "name": "Deep_Meditation"
             },
@@ -77,6 +98,84 @@
           }
         ],
         "title": "meditation"
+      },
+      {
+        "name": "mood",
+        "media": [
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "Gentle Ballerina"
+            },
+            "audio": {
+              "title": "Soft classical music with a calm and pleasant ballet feeling",
+              "time": 3,
+              "name": "Deep_Meditation"
+            },
+            "license": {
+              "path": ""
+            }
+          }
+        ],
+        "title": "mood"
+      },
+      {
+        "name": "emotional",
+        "media": [
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "All Shall End"
+            },
+            "audio": {
+              "title": "Sad song with relaxing instrumentation",
+              "time": 3,
+              "name": "All_Shall_End"
+            },
+            "license": {
+              "path": ""
+            }
+          },
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "Cathedral Ambience"
+            },
+            "audio": {
+              "title": "Ambient minor song with soft men's choral in the background",
+              "time": 3,
+              "name": "Cathedral_Ambience"
+            },
+            "license": {
+              "path": ""
+            }
+          }
+        ],
+        "title": "emotional"
+      },
+      {
+        "name": "romantic",
+        "media": [
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "Champagne at Sunset"
+            },
+            "audio": {
+              "title": "A romantic tune with easy listening saxophone",
+              "time": 3,
+              "name": "Champagne_at_Sunset"
+            },
+            "license": {
+              "path": ""
+            }
+          }
+        ],
+        "title": "romantic"
       }
     ]
   },
