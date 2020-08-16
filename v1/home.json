@@ -176,6 +176,57 @@
           }
         ],
         "title": "romantic"
+      },
+      {
+        "name": "sleep",
+        "media": [
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "The Soft Lullaby"
+            },
+            "audio": {
+              "title": "Soft relaxing lullaby music featuring orchestral instruments",
+              "time": 5,
+              "name": "The_Soft_Lullaby"
+            },
+            "license": {
+              "path": ""
+            }
+          },
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "Relaxing Green Nature"
+            },
+            "audio": {
+              "title": "Relaxing fantasy harps and guitars that capture the historic feel of green nature",
+              "time": 4,
+              "name": "Relaxing_Green_Nature"
+            },
+            "license": {
+              "path": ""
+            }
+          },
+          {
+            "status": 1,
+            "author": {
+              "name": "owner",
+              "title": "Not Much To Say"
+            },
+            "audio": {
+              "title": "Thoughtful relaxing piano and string pads played very softly",
+              "time": 3,
+              "name": "Not_Much_To_Say"
+            },
+            "license": {
+              "path": ""
+            }
+          }
+        ],
+        "title": "sleep"
       }
     ]
   },
@@ -190,20 +241,77 @@
         "name": "meditation",
         "media": {
           "status": 1,
-            "author": {
-              "name": "owner",
-              "title": "Deep Meditation"
-            },
-            "audio": {
-              "title": "Very peaceful meditating music which is sure to inspire deep thought.",
-              "time": 4,
-              "name": "Deep_Meditation"
-            },
-            "license": {
-              "path": ""
-            }
+          "author": {
+            "name": "owner",
+            "title": "Deep Meditation"
+          },
+          "audio": {
+            "title": "Very peaceful meditating music which is sure to inspire deep thought.",
+            "time": 4,
+            "name": "Deep_Meditation"
+          },
+          "license": {
+            "path": ""
+          }
         },
         "title": "meditation"
+      },
+      {
+        "name": "sleep",
+        "media": {
+          "status": 1,
+          "author": {
+            "name": "owner",
+            "title": "Not Much To Say"
+          },
+          "audio": {
+            "title": "Thoughtful relaxing piano and string pads played very softly",
+            "time": 3,
+            "name": "Not_Much_To_Say"
+          },
+          "license": {
+            "path": ""
+          }
+        },
+        "title": "sleep"
+      },
+      {
+        "name": "romantic",
+        "media": {
+          "status": 1,
+          "author": {
+            "name": "owner",
+            "title": "Champagne at Sunset"
+          },
+          "audio": {
+            "title": "A romantic tune with easy listening saxophone",
+            "time": 3,
+            "name": "Champagne_at_Sunset"
+          },
+          "license": {
+            "path": ""
+          }
+        },
+        "title": "romantic"
+      },
+      {
+        "name": "emotional",
+        "media": {
+          "status": 1,
+          "author": {
+            "name": "owner",
+            "title": "All Shall End"
+          },
+          "audio": {
+            "title": "Sad song with relaxing instrumentation",
+            "time": 3,
+            "name": "All_Shall_End"
+          },
+          "license": {
+            "path": ""
+          }
+        },
+        "title": "emotional"
       }
     ]
   },
