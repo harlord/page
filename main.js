@@ -1,10 +1,10 @@
 /* eslint-env browser, jquery */
 (() => {
 	if (window.location.search === '?success') {
-		$('#main').html('<h1 class="title is-2">Thanks for the feedback!</h1><p>You will now be redirected to my website.');
+		$('#main').html('<h1 class="title is-2">Thanks for the feedback!</h1><p>You will now be redirected to Mental Balance website.');
 
 		setTimeout(() => {
-			window.location.href = 'https://sindresorhus.com/apps';
+			window.location.href = 'https://mental-balance.flycricket.io';
 		}, 3000);
 	}
 
