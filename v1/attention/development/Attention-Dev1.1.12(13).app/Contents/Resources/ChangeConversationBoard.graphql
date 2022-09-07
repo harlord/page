@@ -1,0 +1,3 @@
+mutation ChangeConversationBoard($input: InputChangeConversationBoard!) {
+  changeConversationBoard(input: $input)
+}

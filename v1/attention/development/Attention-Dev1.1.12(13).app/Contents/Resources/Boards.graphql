@@ -1,0 +1,21 @@
+query Boards {
+  boards {
+    uuid
+    name
+    columns {
+      id
+      title
+      children {
+        uuid
+        keywords
+        response
+        text
+      }
+    }
+    team {
+      uuid
+      name
+    }
+    teamUUID
+  }
+}

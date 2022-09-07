@@ -1,0 +1,3 @@
+mutation ChangeConversationBattlecardFeedback($input: InputChangeConversationBattlecardFeedback!) {
+  changeConversationBattlecardFeedback(input: $input)
+}

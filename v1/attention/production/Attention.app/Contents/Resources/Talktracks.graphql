@@ -1,0 +1,10 @@
+query Talktracks {
+  talktracks {
+    uuid
+    name
+    team {
+      uuid
+      name
+    }
+  }
+}

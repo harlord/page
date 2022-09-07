@@ -1,0 +1,39 @@
+query CurrentConversation {
+  currentConversation {
+    uuid
+    boards {
+      uuid
+      board {
+        uuid
+        columns {
+          id
+          children {
+            uuid
+            response
+            text
+          }
+        }
+        team {
+          uuid
+          name
+        }
+        teamUUID
+      }
+      battlecards {
+        uuid
+        activatedBattlecardId
+        hidden
+      }
+    }
+    finishedAt
+    talktracks {
+      uuid
+      items {
+        uuid
+        activatedItemId
+        done
+      }
+    }
+    userUUID
+  }
+}

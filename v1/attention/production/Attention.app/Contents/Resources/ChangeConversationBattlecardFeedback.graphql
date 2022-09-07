@@ -1,0 +1,10 @@
+mutation ChangeConversationTalktrackItemStatus($input: ChangeConversationTalktrackItemStatus!) {
+  changeConversationTalktrackItemStatus(input: $input) {
+    uuid
+    item {
+      uuid
+      activatedItemId
+      done
+    }
+  }
+}

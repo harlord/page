@@ -1,0 +1,14 @@
+query TalktrackById($uuid: ID!) {
+  talktrackById(uuid: $uuid) {
+    uuid
+    items {
+      uuid
+      text
+    }
+    team {
+      uuid
+      name
+    }
+    teamUUID
+  }
+}
