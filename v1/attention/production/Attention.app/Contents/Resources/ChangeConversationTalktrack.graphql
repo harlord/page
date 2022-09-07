@@ -1,5 +1,0 @@
-mutation ChangeConversationTalktrack($input: ChangeConversationTalktrack!) {
-  changeConversationTalktrack(input: $input) {
-    uuid
-  }
-}
